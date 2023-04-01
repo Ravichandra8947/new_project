@@ -5,5 +5,6 @@ from django.db import models
 class CARTOON(models.Model):
     cartoon_name = models.CharField(max_length=50)
     season = models.IntegerField()
+    channnel = models.CharField(max_length= 50)
 
 
