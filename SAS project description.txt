@@ -1,0 +1,11 @@
+
+SAS was created in the United States. SAS is a retail service that provides a skilled staff with a customer-focused approach for distinctive retail merchandising. SAS is primarily responsible for store maintenance. Businesses can increase sales by arranging products on shelves. SAS provides services to a variety of large corporations, including Walmart and others. In reality, SAS is a smartphone app that works on both iOS and Android. If we launch the mobile app for the first time, it will ask for our credentials. SAS employees are automatically directed to the home page, where the representative can only view the data on the schedule page. It will be displayed on the home page. Employees are assigned tasks based on their qualifications.
+They display a status indicator in three colours: yellow, blue, and green.
+
+Yellow indicates that a store visit is in progress, blue indicates that work has been scheduled but has not yet begun, and green indicates that work has been completed.
+SAS modules include:
+Scan to order: They can see the category item description of the product in the custom scan module, and they need to know how much stock they have, how much is upselling, how many will be damaged, how many products are expired, and how many boxes are left over in the shift. Actually, identifying them is the responsibility of a team member. The store manager will be aware of what is going on in the store. To avoid having SAS members do it manually, the application includes a camera for scanning the item. The camera can photograph and scan the stock. If they are out of stock
+
+It can conform the store manager, and SAS employers can restock it.
+Survey: The survey module is in charge of determining whether or not the shift and shelves are organised. After that, he moves on to the impulse section. Impulse is nothing more than a payment system. After determining whether the product and stock are properly arranged, he photographs them. & after completing all of these steps, he can submit them.
+In general, each SAS project store has only three employees, including the administrator (manager of the store). Retailer(he supply the products from store to improve their sales) (he supply the products from store to improve their sales). Employers at SAS (SAS employers follows planogram to organising their products on shelves).
