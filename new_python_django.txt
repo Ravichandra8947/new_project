@@ -1,0 +1,252 @@
+Django:
+
+1. Explain MVT archtecture in django?
+ 
+2 what is context processer in django?
+
+3 what is ORM in Django?
+
+4 what is Sessions inajargo?
+
+5 what are serializer In django?
+
+6 what is signals in django?
+
+7 what to Request and response cycle in django?
+
+8 what is views and view sets in django?
+
+9 what is mixins in django ?
+
+10 what is project directory in django? 
+
+11 what is app directory in django?
+
+12 what is HTTP Methods in django?
+
+13 what is migrations & Makemigrations in django? 
+
+14 what is status codes in Django?
+
+15 what is CSRF Tokens in django?
+
+16 what is data base settings?
+
+17 what is middlewares in django?
+
+18 what is Authentication & authorization in dajango?
+
+19 what is JWT token in django?
+
+20 what is API and rest API in django?
+
+21 what is cache system in django?
+
+22. what is docker in django?
+
+23. what is vistuval environment?
+
+24 Select related and prefetcht related in django? 
+
+25) what is pdB, logging, logger?
+
+26) aggregate an annotate?
+
+27) what is the differece between django flask?
+
+28) what is Cookies in django.
+
+
+
+Differences:
+
+1 Difference b/w list & tuple in Python?
+
+2 Difference b/w list of Array in python? 
+
+3 Difference b/w List Comprehension & dictionary Comprehension 
+
+4 difference b/w Range and xrange?
+
+5 Difference b/w yield & Return?
+
+6 Difference b/w .py & .pyc files in python?
+
+7 difference b/w set and dictionary?
+
+8 difference b/w append and extend?
+
+9 difference b/w Classmethod and static method in python?
+
+10 difference b/w Decorator and Generator in pyth0n?
+
+11 difference b/w normal function and Generator function?
+
+12 diff b/w indexy find discard and remove?
+
+13. diff b/w sort and sorted, reference and copy? 
+
+14) difference b/w Compiler and interpreter?
+
+15) difference b/w dict and ordered dict?
+
+18) difference b/w remove and pop? 
+
+19) difference b/w Methods and Constructors?
+
+20) Constructor b/w distructor in python? 
+
+21) difference b/w normal function and lambda function?
+
+
+functions:
+
+1)zip function in python?
+
+2)enumerate in function in python?
+
+3)split() function, join() function in python?
+
+4)what is print() funtion in python?
+
+5)what is eval() function in python?
+
+6)all(), any()
+
+
+
+Python :
+
+1.python of its features
+
+2.data types
+
+3.what is break.continue, pass
+
+4.what is python debugger
+
+5.what is dynamically typed language
+ 
+6.what is pep8
+
+7.what is memory management in python
+
+8.what is decorator
+code
+9.what is generator
+code 
+10.what is lambda function
+
+11.what is map.filter,reduce
+
+12.what is modules &packages
+
+13.what is _init_ contructor
+
+14.what is inheritance
+
+15.what is polymorphisym
+
+16.what is encapsulation
+
+17.what is abstraction 
+
+18.what is class and what is object &what is reference variable?
+
+19.what is compiler & interpreture
+
+20.where is scope in python
+
+21.what is pickling and unpackling
+ 
+22. what is mutli threading & multiprocessing
+
+23.what is GIL
+
+24.what is iterators in python 
+
+25.what is access specifiers in python 
+
+26.copy andreference operators in python
+
+27.oops
+
+28. what is class (method , instance method & class method)
+
+29. what is zip function
+
+30.what is python super function
+
+31.what is self pearameterin python
+
+32. what is doc string in python 
+
+33. what is local and global variable in python
+
+34.what is slicing in python 
+
+35. what is exception handeling in python
+code
+
+36.what is monkey patching in python
+functions 
+
+37. what is negative indexing in python?
+
+38. what is file handling in python?
+code
+39.what is context manager in python?
+
+40.what are module types in python?
+
+41.what is regular expressions (&) what are the functions in the regular expressions
+(formula,function)
+
+42.what is MRO method?
+code
+
+43.what is closure in python?
+
+44.what is dictionary methods & what iterator
+ code	, code
+45.what is unit test and pytest in python ?
+ 
+46.how to find bugs in python?
+(how Many)
+47.types of argument's in python?
+
+48.what is mean by logging in python?
+(see in django) (how many)
+
+49.what is python operators?
+
+50) what is docker in python? 
+(see in django)
+
+51) what is Python path in python?
+
+52) what is PIP and PEP 8
+
+53) What is shallow copy & deep copy in python? 
+
+54) what is mean by list and linked list?
+
+55) what is mean by tuple and named tuple?
+
+56) what is dictionary and default dictionary? 
+
+57) what is dictionary Comprehension and list Comprehension?
+
+58) what is the use do help() and dir() functions in Python?
+
+59) what are iterative statements in python?
+
+60) what is __main__?
+
+61) what is print function in Python? 
+
+62) what are reserved words in Python?
+
+63) what is indentation in Python?
+
+
